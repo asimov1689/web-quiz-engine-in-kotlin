@@ -1,0 +1,13 @@
+.gradle/
+build/
+out/
+*.class
+
+.DS_Store
+*.iml
+
+# Keep .idea for EduTools course metadata
+.idea/workspace.xml
+.idea/.author_contents_storage_db
+.idea/.author_contents_storage_db-shm
+.idea/.author_contents_storage_db-wal
